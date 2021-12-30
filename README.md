@@ -1,13 +1,13 @@
 # Projetos BI
 Repositório destinado a Projetos desenvolvidos em Microsoft Power Bi
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZjI2ZTczNDEtZThjMi00NmQ1LTg5MTYtNDg2YWRhYzE3MjYzIiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9&pageName=ReportSection">Alura Pet Shop</a> - Projeto desenvolvido no curso de Formação em Power Bi da Alura.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOWE3ZjhjZmQtMDRkNC00ZGM4LWFjZjYtNjA2M2VlY2VjMGI2IiwidCI6IjgxM2Q2YTc4LWNhZDUtNDNmYy05Y2QyLTU0M2Q0ZjU3MTdmZiJ9">Alura Pet Shop</a> - Projeto desenvolvido no curso de Formação em Power Bi da Alura.
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYjc1NjBhZWItOTAzNy00NTc3LTg4YWYtYmY3Zjc3MzBhZjcyIiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9&pageName=ReportSection">Mapa de oficinas</a> - Projeto desenvolvido no curso de Formação em Power Bi da Alura.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMDIwZGNlMDItNmI3YS00MmRiLTllODctZDU0YTBiMzY3NzNjIiwidCI6IjgxM2Q2YTc4LWNhZDUtNDNmYy05Y2QyLTU0M2Q0ZjU3MTdmZiJ9">Mapa de oficinas</a> - Projeto desenvolvido no curso de Formação em Power Bi da Alura.
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMTQxMmE1MTktMmJlMy00ZjI2LTg5ZGEtMTg1YjVlNDliM2E2IiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9">E-commerce no Brasil</a> - Projeto desenvolvido no curso de Formação em Power Bi da Alura.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzc0NWEzNTAtYmFjOC00MzhkLWE0MTgtMTZkNGE5NzM5OTBhIiwidCI6IjgxM2Q2YTc4LWNhZDUtNDNmYy05Y2QyLTU0M2Q0ZjU3MTdmZiJ9">E-commerce no Brasil</a> - Projeto desenvolvido no curso de Formação em Power Bi da Alura.
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZWM1Yzc2NDQtOTIwYy00Nzg2LWE1MzEtN2I4NGFjNWRjN2FiIiwidCI6IjRmYmUwOTk5LTcxNTQtNDVjOC1hYWJhLTQ3NzBiYTZjM2RmMSJ9">Recursos Humanos</a> - Projeto desenvolvido no curso de Formação em Power Bi da Alura.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZWE5NTI4ZGItZWI3Yy00MmNkLTgxYWQtZmYwOGY5MjgxMTA4IiwidCI6IjgxM2Q2YTc4LWNhZDUtNDNmYy05Y2QyLTU0M2Q0ZjU3MTdmZiJ9">Recursos Humanos</a> - Projeto desenvolvido no curso de Formação em Power Bi da Alura.
          
          
 
